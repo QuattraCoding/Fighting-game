@@ -1,5 +1,5 @@
 package maingameapp;
-
+/* Test */
 import java.util.Scanner;
 import static maingameapp.FightLog.AttChoose;
 import static maingameapp.Menu.menu;
